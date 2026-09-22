@@ -1,8 +1,9 @@
 # COMP 322 — Assignments 1 and 2 example
 
 Use this existing student website as a reference when correcting your own work.
-The biography, courses, and education are Brandon's original example content;
-replace them with your own information and images. Assignment 3 code is not
+The biography reflects Brandon's current research and teaching; the course list
+and education table retain historical example content. Replace these with your
+own information and images. Assignment 3 code is not
 included here.
 
 ## Files and requirements
