@@ -1,5 +1,7 @@
 .wrapper {
-  width: 25%;
+  /* Keep the cover and passage in the same column, including on phones. */
+  width: 400px;
+  max-width: 100%;
 }
 
 .wrapper p {
@@ -20,4 +22,5 @@
 
 .red_text {
   color: red;
+  font-weight: bold;
 }
