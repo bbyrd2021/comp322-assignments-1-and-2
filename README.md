@@ -61,7 +61,7 @@ prove that Pages is deployed. Test in a signed-out or private browser window.
 
 Assignment 2 asks for the home repository (`USERNAME.github.io`). This instructor
 example uses a project repository; its expected Pages URL, once enabled, is
-`https://bbyrd2021.github.io/comp322_assignment2/`.
+`https://bbyrd2021.github.io/comp322-assignments-1-and-2/`.
 
 For Assignment 2, the class announcement specifies one ZIP containing the
 published URL in a text file, a screenshot of the published website, and a
