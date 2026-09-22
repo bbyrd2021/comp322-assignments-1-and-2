@@ -1,8 +1,8 @@
 # COMP 322 — Assignments 1 and 2 example
 
 Use this existing student website as a reference when correcting your own work.
-The biography reflects Brandon's current research and teaching; the course list
-and education table retain historical example content. Replace these with your
+The biography and introduction table reflect Brandon's research and teaching;
+the course list retains historical example content. Replace these with your
 own information and images. Assignment 3 code is not
 included here.
 
