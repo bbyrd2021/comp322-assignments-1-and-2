@@ -6,10 +6,15 @@
 
 .wrapper p {
   width: 100%;
+  margin: 0;
 }
 
 .wrapper img {
+  display: block;
   width: 100%;
+  /* The assignment reference displays the cover in a wide, compressed frame. */
+  aspect-ratio: 8 / 7;
+  object-fit: fill;
 }
 
 .underline {
